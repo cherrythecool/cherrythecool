@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MidnightBloxxer
+- 👋 Hi, I’m @what-is-a-git
 - 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning Haxe, Godot, and C++.
+- 🌱 I’m currently learning Haxe, Godot, C++, and C#.
 - 💞️ I’m looking to collaborate on Libraries and Game Projects.
 <!---
 - 📫 How to reach me ...
