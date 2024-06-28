@@ -5,7 +5,7 @@
 i do mostly game dev related stuff atm
 
 mostly like using godot and c/c++ atm, but will work with
-other stuff when needed (or if trying something new)
+other stuff when needed (or if trying something new (currently other langs like rust and go))
 
 mostly doing my own thing but sometimes i contribute
 to other stuff i guess
