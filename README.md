@@ -17,4 +17,4 @@ i also have a [personal website](https://goddess.nekoweb.org) if you find that k
 ![cherry's stats](https://github-readme-stats.vercel.app/api?username=what-is-a-git&show_icons=true&theme=dracula&count_private=true)
 [![cherry's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=what-is-a-git&theme=dracula&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![cherry's view count](https://visitcount.itsvg.in/api?id=cherrythecool&label=view%20count&color=6&icon=7&pretty=false)](https://visitcount.itsvg.in)
+[![cherry's view count](https://www.counter12.com/img-3y44Z1dAWd5701y6-9.gif)](https://www.counter12.com)
